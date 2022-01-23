@@ -52,7 +52,7 @@ REVOKE_TOK = " Your Token is Revoked Successfully !! \n\n Use /auth To Re-Author
 DOWN_PATH = "Downloads/"  # Linux path
 DOWNLOAD_URL = "Your File Uploaded Successfully \n\n <b>Filename</b> : {} \n\n <b> Size</b> : {} MB \n\n <b>Download</b> {}"
 AUTH_ERROR = "AUTH Error !! Please  Send Me a  valid Token or Re - Authorise Me  \n\n report At @aryanvikash"
-OPENLOAD = True
+OPENLOAD = False
 DROPBOX = True
 MEGA = True
 
